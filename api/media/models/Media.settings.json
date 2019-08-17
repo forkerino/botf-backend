@@ -40,8 +40,8 @@
     },
     "type_fr": {
       "enum": [
-        "Bibliothèque",
-        "Médias Publiques",
+        "Bibliotheque",
+        "Medias Publiques",
         "Musique",
         "Publications"
       ],
