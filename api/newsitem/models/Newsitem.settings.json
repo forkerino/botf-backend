@@ -2,7 +2,7 @@
   "connection": "default",
   "collectionName": "newsitems",
   "info": {
-    "name": "news item",
+    "name": "newsitem",
     "description": ""
   },
   "options": {
