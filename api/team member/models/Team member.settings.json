@@ -1,0 +1,45 @@
+{
+  "connection": "default",
+  "collectionName": "teammembers",
+  "info": {
+    "name": "team member",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": [
+      "created_at",
+      "updated_at"
+    ],
+    "comment": ""
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "occupation": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "title_fr": {
+      "type": "string"
+    },
+    "occupation_fr": {
+      "type": "string"
+    }
+  }
+}
